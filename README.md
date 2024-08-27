@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Riya271
+- 👀 I’m interested in data-driven insights and machine learning.
+- 🌱 I’m currently learning advanced data modeling and deep learning techniques.
+- 💞️ I’m looking to collaborate on data science projects that involve predictive analytics or automation.
+- 📫 How to reach me: www.linkedin.com/in/riya-deena-andrews-b99313212
+- ⚡ Fun fact: I love finding patterns in unexpected places!
